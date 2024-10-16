@@ -1,6 +1,8 @@
 # Blum-DogsEvent-Bot
 
+# Dosya
 https://t.me/CinnconBots/246
+
 
 ![Örnek](images/ScreenShot.PNG)
 
