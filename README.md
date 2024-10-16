@@ -1,6 +1,6 @@
 # Blum-DogsEvent-Bot
 
-# Dosya
+
 https://t.me/CinnconBots/246
 
 
