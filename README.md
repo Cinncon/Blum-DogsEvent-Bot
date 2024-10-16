@@ -2,7 +2,7 @@
 
 https://t.me/CinnconBots/246
 
-![Örnek](images/ScreenShot.png)
+![Örnek](images/ScreenShot.PNG)
 
 
 Türkçe
