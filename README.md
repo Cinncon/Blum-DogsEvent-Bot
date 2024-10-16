@@ -7,6 +7,7 @@ https://t.me/CinnconBots/246
 ![Örnek](images/ScreenShot.PNG)
 
 
+
 Türkçe
 
 1. Python 3.10'u yükleyin.
