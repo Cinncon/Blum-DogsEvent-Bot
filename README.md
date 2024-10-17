@@ -10,7 +10,7 @@ https://t.me/CinnconBots/246
 
 Türkçe
 
-1. Python 3.10'u yükleyin.
+1. Python 3.10 yükleyin.
 2. Install.bat dosyasını çalıştırın.
 3. Bot.exe dosyasını açın.
 4. Admin tarafından verilen lisans anahtarını yazın.
